@@ -10,7 +10,7 @@
  * };
  */
 class Solution {
-private:
+public:
     // Helper function with correct braces and boundary logic
     bool validateHelper(TreeNode* root, TreeNode* minNode, TreeNode* maxNode) {
         if (root == nullptr) {
