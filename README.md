@@ -4,6 +4,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0098-validate-binary-search-tree) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
