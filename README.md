@@ -28,9 +28,14 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0098-validate-binary-search-tree) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
