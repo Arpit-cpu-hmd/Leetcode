@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0316-remove-duplicate-letters) |
 ## Array
 |  |
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0316-remove-duplicate-letters) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
