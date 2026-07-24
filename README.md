@@ -42,6 +42,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0189-rotate-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
@@ -62,4 +63,9 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
