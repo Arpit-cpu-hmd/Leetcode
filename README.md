@@ -43,10 +43,12 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0189-rotate-array) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Greedy
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0242-valid-anagram) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +79,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0206-reverse-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
