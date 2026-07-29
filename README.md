@@ -9,6 +9,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0189-rotate-array) |
+| [0496-next-greater-element-i](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Greedy
 |  |
@@ -57,10 +59,12 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
