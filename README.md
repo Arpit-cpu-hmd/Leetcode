@@ -48,6 +48,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Greedy
@@ -75,6 +76,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
