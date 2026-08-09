@@ -84,6 +84,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0189-rotate-array) |
 ## Linked List
 |  |
