@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Sorting
@@ -91,6 +93,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0189-rotate-array) |
 ## Linked List
 |  |
