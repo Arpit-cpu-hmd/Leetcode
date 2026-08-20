@@ -58,6 +58,7 @@
 | [0485-max-consecutive-ones](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arpit-cpu-hmd/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Greedy
 |  |
 | ------- |
